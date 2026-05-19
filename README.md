@@ -1,6 +1,6 @@
 # Hi, I'm Pablo 👋
 
-📍 **Guatemala 🇬🇹** | ⚛️ **React UI Engineer** | 🚀 **Software Engineer @ PayPal** | 🤖 **AI + builder mindset**
+📍 **Guatemala 🇬🇹** | ⚛️ **React UI Engineer** | 🚀 **Software Engineer @ Ex-PayPal** | 🤖 **AI + builder mindset**
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
