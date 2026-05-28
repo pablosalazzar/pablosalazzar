@@ -22,5 +22,5 @@ I share what I learn about:
 * Claude Code, skills, agents, and MCPs
 * Practical computer science fundamentals with a builder mindset
 
-[English YouTube Channel](https://www.youtube.com/@programandoconpablo)
+[English YouTube Channel]([https://www.youtube.com/@programandoconpablo](https://www.youtube.com/@PabloSalazarEN))
 [Spanish YouTube Channel](https://www.youtube.com/@programandoconpablo)
